@@ -1,5 +1,5 @@
-# portfolio
-The objective of this assignment was to create a portfolio website using similiar to a provided model.
+# Portfolio
+The objective of this assignment was to create a portfolio website similiar to a provided model.
 
 ## Assignment Checklist
 
@@ -12,6 +12,10 @@ The objective of this assignment was to create a portfolio website using similia
 7. Projects must have titles and a connection to the deployed application.
 8. Ensure a layout that responds to and adapts to various viewport sizes.
 9.Add comments to HTML and CSS for comprehension.
+
+
+## Demo
+<img src="Screen Shot 2022-08-08 at 1.37.18 PM.png">
 
 ## MIT License
 
