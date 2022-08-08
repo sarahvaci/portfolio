@@ -15,6 +15,7 @@ The objective of this assignment was to create a portfolio website similiar to a
 
 
 ## Demo
+https://sarahvaci.github.io/portfolio/
 <img src="Screen Shot 2022-08-08 at 1.37.18 PM.png">
 
 ## MIT License
